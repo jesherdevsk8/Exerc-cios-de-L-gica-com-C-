@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = treinando_3
-build_property.ProjectDir = C:\Users\Jesher\Desktop\Treinando Lógica\conversor de moedas\
+build_property.RootNamespace = aula_26._05._2021
+build_property.ProjectDir = C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\

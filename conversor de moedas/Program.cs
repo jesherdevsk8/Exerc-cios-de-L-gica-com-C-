@@ -22,7 +22,7 @@ namespace treinando_3
             dolares = reais/5.21;
             
             Console.WriteLine();
-            Console.WriteLine(" Posso ter US$ " + dolares);
+            Console.WriteLine(" Posso ter US$ " + dolares.ToString("N2"));
             Console.WriteLine();
 
             /* agora vamos converter o valor de um Tesla em reais brasileiros
@@ -42,7 +42,7 @@ namespace treinando_3
             Valor_Reais = Valor_Dolares * 5.21;
 
             Console.WriteLine();
-            Console.WriteLine(" O valor do Tesla em reais é " + Valor_Reais + " mil ");
+            Console.WriteLine(" O valor do Tesla em reais é " + Valor_Reais.ToString("N2") + " mil ");
             Console.WriteLine();
 
 
