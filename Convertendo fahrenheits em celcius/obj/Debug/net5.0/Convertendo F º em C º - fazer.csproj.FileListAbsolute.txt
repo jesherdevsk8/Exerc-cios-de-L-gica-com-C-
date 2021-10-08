@@ -1,0 +1,32 @@
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.exe
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.deps.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.runtimeconfig.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\ref\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\bin\Debug\net5.0\Convertendo F º em C º - fazer.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\ref\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo F º em C º - fazer\obj\Debug\net5.0\Convertendo F º em C º - fazer.genruntimeconfig.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.exe
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.deps.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.runtimeconfig.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\ref\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\bin\Debug\net5.0\Convertendo F º em C º - fazer.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\ref\Convertendo F º em C º - fazer.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Convertendo fahrenheits em celcius\obj\Debug\net5.0\Convertendo F º em C º - fazer.genruntimeconfig.cache

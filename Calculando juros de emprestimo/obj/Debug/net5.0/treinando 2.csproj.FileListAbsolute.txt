@@ -1,0 +1,32 @@
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.exe
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.deps.json
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.runtimeconfig.json
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\ref\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\bin\Debug\net5.0\treinando 2.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\ref\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\treinando 2\obj\Debug\net5.0\treinando 2.genruntimeconfig.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.exe
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.deps.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.runtimeconfig.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\ref\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\bin\Debug\net5.0\treinando 2.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\ref\treinando 2.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\Calculando juros de emprestimo\obj\Debug\net5.0\treinando 2.genruntimeconfig.cache

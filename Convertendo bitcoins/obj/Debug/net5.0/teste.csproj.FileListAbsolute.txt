@@ -1,0 +1,32 @@
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.exe
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.dll
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\Jesher\Desktop\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.dll
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\Jesher\Desktop\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.exe
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.deps.json
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\ref\teste.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\bin\Debug\net5.0\teste.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.csprojAssemblyReference.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\ref\teste.dll
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.pdb
+C:\Users\Jesher\Desktop\Treinando Lógica\teste vsCode\obj\Debug\net5.0\teste.genruntimeconfig.cache
