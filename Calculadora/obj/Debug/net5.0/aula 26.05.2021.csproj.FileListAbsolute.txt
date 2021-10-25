@@ -1,32 +1,48 @@
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.csprojAssemblyReference.cache
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.AssemblyInfoInputs.cache
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.AssemblyInfo.cs
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.csproj.CoreCompileInputs.cache
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.exe
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.deps.json
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.runtimeconfig.json
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.runtimeconfig.dev.json
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\ref\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\bin\Debug\net5.0\aula 26.05.2021.pdb
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\ref\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.pdb
-C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\PA - TOF\Maio\aula 26.05.2021\obj\Debug\net5.0\aula 26.05.2021.genruntimeconfig.cache
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.exe
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.deps.json
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.runtimeconfig.json
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.runtimeconfig.dev.json
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\ref\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\bin\Debug\net5.0\aula 26.05.2021.pdb
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.csproj.AssemblyReference.cache
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.AssemblyInfoInputs.cache
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.AssemblyInfo.cs
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.csproj.CoreCompileInputs.cache
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\ref\aula 26.05.2021.dll
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.pdb
-C:\Users\Jesher\Desktop\Treinando Lógica\Calculadora\obj\Debug\net5.0\aula 26.05.2021.genruntimeconfig.cache
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.csprojAssemblyReference.cache
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfoInputs.cache
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfo.cs
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.csproj.CoreCompileInputs.cache
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.exe
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.deps.json
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.json
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.dev.json
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/ref/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/bin/Debug/net5.0/aula 26.05.2021.pdb
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/ref/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.pdb
+C:/Users/Jesher/Desktop/ETEC - Desen. sistemas/PA - TOF/Maio/aula 26.05.2021/obj/Debug/net5.0/aula 26.05.2021.genruntimeconfig.cache
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.exe
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.deps.json
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.json
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.dev.json
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/ref/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/bin/Debug/net5.0/aula 26.05.2021.pdb
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.csproj.AssemblyReference.cache
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfoInputs.cache
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfo.cs
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.csproj.CoreCompileInputs.cache
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/ref/aula 26.05.2021.dll
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.pdb
+C:/Users/Jesher/Desktop/Treinando Lógica/Calculadora/obj/Debug/net5.0/aula 26.05.2021.genruntimeconfig.cache
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021.deps.json
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.json
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021.runtimeconfig.dev.json
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021.dll
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/ref/aula 26.05.2021.dll
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/bin/Debug/net5.0/aula 26.05.2021.pdb
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.csproj.AssemblyReference.cache
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.GeneratedMSBuildEditorConfig.editorconfig
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfoInputs.cache
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.AssemblyInfo.cs
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.csproj.CoreCompileInputs.cache
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.dll
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/ref/aula 26.05.2021.dll
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.pdb
+/home/boyah/Documentos/Etec/DotNet-Projects/Exercicios-de-Logica-com-CSharp-/Calculadora/obj/Debug/net5.0/aula 26.05.2021.genruntimeconfig.cache
